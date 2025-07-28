@@ -1,3 +1,8 @@
+.bg-image {
+    background: linear-gradient(to left, #d4e7eb, #e8f2f4, #fff, #fff);
+    width: 100%;
+}
+
 .page-link.no-border {
     border: none !important;
     box-shadow: none !important;
